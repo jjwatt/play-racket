@@ -28,3 +28,9 @@
 [submodule "cKanren"]
 	path = cKanren
 	url = https://github.com/calvis/cKanren.git
+[submodule "j-bob"]
+	path = j-bob
+	url = https://github.com/the-little-prover/j-bob.git
+[submodule "acl2-sources"]
+	path = acl2-sources
+	url = https://github.com/acl2/acl2

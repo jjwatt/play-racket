@@ -7,4 +7,5 @@ rm ./racket-7.4-x86_64-linux.sh
 export PATH=$HOME/racket/bin:$PATH
 raco pkg install minikanren
 raco pkg install pie
+raco pkg install dracula
 
