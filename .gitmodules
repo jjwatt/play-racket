@@ -1,0 +1,30 @@
+[submodule "miniKanren-with-symbolic-constraints"]
+	path = miniKanren-with-symbolic-constraints
+	url = https://github.com/webyrd/miniKanren-with-symbolic-constraints.git
+[submodule "alphaKanren"]
+	path = alphaKanren
+	url = https://github.com/webyrd/alphaKanren.git
+[submodule "CodeFromTheReasonedSchemer2ndEd"]
+	path = CodeFromTheReasonedSchemer2ndEd
+	url = https://github.com/webyrd/CodeFromTheReasonedSchemer2ndEd.git
+[submodule "microKanren"]
+	path = microKanren
+	url = https://github.com/jasonhemann/microKanren.git
+[submodule "rkanren"]
+	path = rkanren
+	url = https://github.com/cgswords/rkanren.git
+[submodule "probKanren"]
+	path = probKanren
+	url = https://github.com/webyrd/probKanren.git
+[submodule "Racket-miniKanren"]
+	path = Racket-miniKanren
+	url = https://github.com/miniKanren/Racket-miniKanren.git
+[submodule "niitsuma-Racket-miniKanren"]
+	path = niitsuma-Racket-miniKanren
+	url = https://github.com/miniKanren/Racket-miniKanren.git
+[submodule "zKanren"]
+	path = zKanren
+	url = https://github.com/the-language/zKanren.git
+[submodule "cKanren"]
+	path = cKanren
+	url = https://github.com/calvis/cKanren.git
